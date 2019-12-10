@@ -1,0 +1,17 @@
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\impl\MQClientAPIImplTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\impl\factory\MQClientInstanceTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\consumer\DefaultMQPullConsumerTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\consumer\rebalance\AllocateMessageQueueConsitentHashTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\impl\consumer\RebalancePushImplTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\producer\selector\SelectMessageQueueByHashTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\ValidatorsTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\producer\DefaultMQProducerTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\trace\DefaultMQProducerWithTraceTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\consumer\store\LocalFileOffsetStoreTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\consumer\store\RemoteBrokerOffsetStoreTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\common\ThreadLocalIndexTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\consumer\rebalance\AllocateMachineRoomNearByTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\impl\consumer\ProcessQueueTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\trace\DefaultMQConsumerWithTraceTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\consumer\DefaultMQPushConsumerTest.java
+F:\code\code-open\rocketmq-rocketmq-all-4.4.0\client\src\test\java\org\apache\rocketmq\client\latency\LatencyFaultToleranceImplTest.java

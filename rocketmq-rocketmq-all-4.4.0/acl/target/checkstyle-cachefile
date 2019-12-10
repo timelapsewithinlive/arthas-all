@@ -1,0 +1,16 @@
+#Sat Dec 07 10:49:16 CST 2019
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\AclSigner.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\SigningAlgorithm.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\plain\\RemoteAddressStrategy.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\Permission.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\SessionCredentials.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\plain\\PlainPermissionLoader.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\plain\\RemoteAddressStrategyFactory.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\plain\\PlainAccessResource.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\plain\\PlainAccessValidator.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\AclUtils.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\AclClientRPCHook.java=1547726262000
+configuration*?=3285ED520009828E18505C3A34380402034F9171
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\common\\AclException.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\AccessValidator.java=1547726262000
+F\:\\code\\code-open\\rocketmq-rocketmq-all-4.4.0\\acl\\src\\main\\java\\org\\apache\\rocketmq\\acl\\AccessResource.java=1547726262000
